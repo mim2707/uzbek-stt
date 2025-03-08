@@ -1,0 +1,9 @@
+transformers
+datasets
+torch
+torchaudio
+librosa
+jiwer
+accelerate
+whisper
+seqeval
